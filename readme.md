@@ -52,4 +52,40 @@
 >>> 第三层引用
 >>>> 第四层引用
 
+## Markdownn 插入代码块
+```c
+  #include<stdio.h>
+  int main(void)
+  {
+   printf("C output...\n");
+   return 0;
+  }
+
+```
+```cpp
+  #include<iostream>
+  using namespace std;
+  int main(void)
+  {
+    cout<<"C++ toutput"<<endl;
+  }
+
+```
+
+```python
+   import urllib
+   import os
+
+   def fucntion():
+            printf("Python code...\n");
+```
+
+```bash
+   sudo apt-get install pip3
+   echo "数据回显"
+   netstate -anp
+
+```
+
+
 
