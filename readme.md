@@ -101,10 +101,8 @@
 
 ## 在文章中插入自定义图片
 
-![desktop_01.jpg](https://s2.loli.net/2022/01/19/sRraUdojlxkGMNK.jpg)
 
-
-
+![desktop.jpg](https://s2.loli.net/2022/01/19/qBJb8rZVOjSkXcA.png)
 
 
 
